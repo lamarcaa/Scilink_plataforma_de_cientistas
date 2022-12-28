@@ -4,6 +4,7 @@ Plataforma criada em PHP com o uso de POO e padrão MVC para cientistas se encon
 <h3>Funções:</h3>
 <ul>
     <li>Novo cadastro de cientistas e Login</li>
+    <li>Cadastro no banco de dados com senha criptografada</li>
     <li>Recuperação de senha com token de autentificação recebido por email</li>
     <li>Criação do perfil do cientista com informações pessoais e profissionais</li>
     <li>Criação do projeto que necessita de ajuda e publicação na plataforma</li>
